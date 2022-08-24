@@ -1,3 +1,2 @@
 #!/bin/bash
-school
-school
+echo "The school is open!"
